@@ -1,0 +1,8 @@
+[32mINFO    [0m root:test_Login.py:46 ****************Verify Login Test********************
+[32mINFO    [0m root:test_Login.py:52 ****************Enter into the Login Page********************
+[32mINFO    [0m root:test_Login.py:54 ****************Provide the UserName into the Login Page********************
+[32mINFO    [0m root:test_Login.py:56 ****************Provide the Password into the Login Page********************
+[32mINFO    [0m root:test_Login.py:58 ****************Click the Login Button into the Login Page********************
+[32mINFO    [0m root:test_Login.py:60 Page Title is:Dashboard / nopCommerce administration
+[32mINFO    [0m root:test_Login.py:61 ****************Enter into the Login Home Page********************
+[32mINFO    [0m root:test_Login.py:64 ****************Login Test is Passed********************

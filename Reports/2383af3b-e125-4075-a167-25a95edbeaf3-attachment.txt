@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_Login.py:25 ****************Test_001_Login********************
+[32mINFO    [0m root:test_Login.py:26 ****************Verify Home Page Title********************
+[32mINFO    [0m root:test_Login.py:28 ****************Browser Opened********************
+[32mINFO    [0m root:test_Login.py:31 ****************Application Launched********************
+[32mINFO    [0m root:test_Login.py:34 ****************Present in Application Home Page********************
+[32mINFO    [0m root:test_Login.py:38 ****************Home Page Title is Passed********************
